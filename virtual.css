@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-bg {
+    background-color: #222b36 !important;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+.bg-clr{
+    background-color:#222b36;
+    width: 100%;
+    height: 100%;
+    background-size: cover; 
+}
+
+.headding {
+    color: white;
+
+}
+.nav-image {
+    width: 40px;
+    border-radius: 20px;
+}
+.nav-section-clr{
+    color: black;
+}
+
+.image-section {
+    width: 100%;
+    background-size: cover;
+}
+
+.iimage-section {
+    width: 250px;
+    height: 160px;
+}
+.card-imgss {
+    width: 35vh;
+    background-size: cover;
+}
+
+.h111 {
+    font-size: 25px;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+button {
+    background-color: #1a2137 !important;
+}
+
+.pppppp {
+    color: #d5dae0;
+}
+.bg-card-image-1 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
+    height: 100vh;
+    background-size: cover;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.bg-card-image-2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
+    height: 100vh;
+
+    background-size: cover;
+}
+
+.bg-head {
+    color: white;
+}
+
+.bg-pare {
+    color: white;
+}
+.main-bgg {
+    background-color: #5480b5;
+    width: 100vw;
+    background-size: cover;
+}
+
+.main-headding {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.span-sec {
+    color: #1754a1;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.image-sec {
+    height: 35%;
+    width: 100%;
+    background-size: cover;
+}
+
+.h123 {
+    color: #1754a1;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.p123 {
+    font-size: 20px;
+    color: #323f4b;
+    font-family: Roboto;
+    padding: 5px;
+    padding-bottom: 10px;
+}
