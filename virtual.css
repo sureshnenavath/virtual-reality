@@ -12,10 +12,8 @@
     height: 100%;
     background-size: cover; 
 }
-
 .headding {
     color: white;
-
 }
 .nav-image {
     width: 40px;
@@ -24,12 +22,10 @@
 .nav-section-clr{
     color: black;
 }
-
 .image-section {
     width: 100%;
     background-size: cover;
 }
-
 .iimage-section {
     width: 250px;
     height: 160px;
@@ -38,23 +34,21 @@
     width: 35vh;
     background-size: cover;
 }
-
 .h111 {
     font-size: 25px;
     color: #1f2933;
     font-weight: bold;
 }
-
 button {
     background-color: #1a2137 !important;
 }
-
 .pppppp {
     color: #d5dae0;
 }
 .bg-card-image-1 {
     background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png');
-    height: 100vh;
+    width: 100wh;
+    height: 80vh;
     background-size: cover;
     padding-right: 10px;
     padding-bottom: 10px;
@@ -62,15 +56,13 @@ button {
 
 .bg-card-image-2 {
     background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png');
-    height: 100vh;
-
+    width: 100wh;
+    height: 80vh;
     background-size: cover;
 }
-
 .bg-head {
     color: white;
 }
-
 .bg-pare {
     color: white;
 }
@@ -79,32 +71,27 @@ button {
     width: 100vw;
     background-size: cover;
 }
-
 .main-headding {
     color: #1f2933;
     font-weight: bold;
     font-size: 45px;
 }
-
 .span-sec {
     color: #1754a1;
     font-size: 20px;
     font-weight: bold;
     padding: 10px;
 }
-
 .image-sec {
     height: 35%;
     width: 100%;
     background-size: cover;
 }
-
 .h123 {
     color: #1754a1;
     font-size: 25px;
     padding: 10px;
 }
-
 .p123 {
     font-size: 20px;
     color: #323f4b;
